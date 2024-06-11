@@ -147,16 +147,26 @@ Update the application.properties file with your database credentials.
 ## Usage
 
 1- Client Management:
-Add clients using the provided APIs.
-Retrieve and manage client information.
+
+* Add clients using the provided APIs.
+
+* Retrieve and manage client information.
+
 2- Insurance Offer Management:
-Add and retrieve insurance offers.
+
+* Add and retrieve insurance offers.
+
 3- Insurance Request Management:
-Create and manage insurance requests for clients.
+
+* Create and manage insurance requests for clients.
+
 4- Scoring:
-Calculate scores for insurance requests.
+
+* Calculate scores for insurance requests.
+
 5- Decision Making:
-Automatically make decisions based on the calculated scores.
+
+* Automatically make decisions based on the calculated scores.
 
 ## Conclusion :
 
